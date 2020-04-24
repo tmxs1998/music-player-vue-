@@ -1,0 +1,107 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7641",
+      "name": "暂停",
+      "font_class": "zanting",
+      "unicode": "f0019",
+      "unicode_decimal": 983065
+    },
+    {
+      "icon_id": "680963",
+      "name": "心",
+      "font_class": "xin",
+      "unicode": "e711",
+      "unicode_decimal": 59153
+    },
+    {
+      "icon_id": "716048",
+      "name": "音乐",
+      "font_class": "yinle",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "1108184",
+      "name": "cha",
+      "font_class": "jinakangbaoicons18",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "1265480",
+      "name": "心",
+      "font_class": "xin1",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "1314475",
+      "name": "我的",
+      "font_class": "daohanglan-05",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "5532882",
+      "name": "返回",
+      "font_class": "fanhui",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "5618784",
+      "name": "音乐列表",
+      "font_class": "yinleliebiao",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "7417086",
+      "name": "上一首",
+      "font_class": "shangyishou",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "7417092",
+      "name": "下一首",
+      "font_class": "xiayishou",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "8530850",
+      "name": "下拉",
+      "font_class": "Group",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "8736832",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "10292039",
+      "name": "删 除",
+      "font_class": "shanchu",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "11808714",
+      "name": "播放",
+      "font_class": "icon_play",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    }
+  ]
+}
